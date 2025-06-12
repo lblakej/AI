@@ -21,10 +21,11 @@
 * [Merlin AI](https://www.getmerlin.in/)
 * [ZenoChat](https://textcortex.com/)
 * [Khanmigo](https://www.khanmigo.ai/)
-* []()
 * [Mastering Claude Code in 30 minutes](https://www.youtube.com/watch?v=6eBSHbLKuN0) Anthropic `npm install -g @anthopic-ai/claude-code` 
 * [How Cursor is building the future of AI coding with Claude](https://www.youtube.com/watch?v=BGgsoIgbT_Y)
 * [Claude Code is the most insane AI coding tool ever (full guide)](https://www.youtube.com/watch?v=LD3hSN3y_lE)
+* * [Character.ai](https://character.ai/); could not access it!
+ so this has some merit: [C.ai is Broken](https://www.reddit.com/r/CharacterAI/comments/1l7z8zr/cai_is_broken/) | Reddit
 
 ## AI Agents
 * [AI Agents, Clearly Explained](https://www.youtube.com/watch?v=FwOTs4UxQS4) | Jeff Su
@@ -39,6 +40,4 @@
 ## Translation
 * [DeepL](https://www.deepl.com/en/translator)
 
-## Chatbots
-* [Character.ai](https://character.ai/); could not access it!
- so this has some merit: [C.ai is Broken](https://www.reddit.com/r/CharacterAI/comments/1l7z8zr/cai_is_broken/) | Reddit
+
