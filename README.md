@@ -12,7 +12,7 @@
 * [Zapier Agents](https://zapier.com/agents)
 * [Poe](https://poe.com/about)
 * [Le Chat Mistral](https://mistral.ai)
-* [Zapier Chatbots]()
+* [Zapier Chatbots](https://zapier.com/)
 * [Hugging Chat](https://huggingface.co/chat/)
 * [Grok](https://x.ai/)
 * [Pi](https://pi.ai/onboarding) | Personal AI
